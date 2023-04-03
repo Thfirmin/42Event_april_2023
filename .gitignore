@@ -1,0 +1,8 @@
+Event_april_2023.wiki
+*.o
+*.out
+*.exe
+*.a
+*.dSYM
+.*.swp
+*.gch
